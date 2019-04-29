@@ -1,2 +1,2 @@
 # hello_world
-My first repository
+Hey guys, I'm just starting my long journey with coding so be nice to my uploads pls haha
